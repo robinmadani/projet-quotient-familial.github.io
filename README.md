@@ -152,7 +152,7 @@ Institut national de la statistique et des études économiques (INSEE). (2021).
 
 Institut national de la statistique et des études économiques (INSEE). (2022). Unité de consommation. Définitions, méthodes et qualité. https://www.insee.fr/fr/metadonnees/definition/c1560
 
-# IV. Ce que le quotient familial « représente »  : les réalités sociales derrière l’indicateur
+# III. Ce que le quotient familial « représente »  : les réalités sociales derrière l’indicateur
 
 ## A. Le quotient familial comme représentation de la «charge de famille » 
 

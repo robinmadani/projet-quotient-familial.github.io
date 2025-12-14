@@ -118,7 +118,7 @@ https://www.vie-publique.fr/eclairage/20144-la-politique-de-la-famille-depuis-19
 
 # A. Qui gère ce dispositif ?
 
-**INSERT**
+<img width="617" height="356" alt="Image" src="https://github.com/user-attachments/assets/5c5b5ff5-10a7-4a3d-8885-054c6deaa108" />
 
 # B. Les formes de connaissance mobilisées
 

@@ -65,7 +65,7 @@ Ainsi l’article 197 du CGI donne les précisions suivantes : la réduction d�
 
 L’Institut des politiques publiques (IPP) a publié un tableau historique permettant de suivre l’évolution des montants de plafond par demi-part (Institut des politiques publiques, 2025).
 
-! [Image 1] (Projet collectif | Image (1).jpg)
+![Image](https://github.com/user-attachments/assets/1d33b7e4-48c5-4621-a3bf-62359951f76c)
 
 
 Le tableau montre que l’évolution du plafonnement n’est pas strictement continue : elle alterne entre des phases de revalorisation, de stabilisation ou même de resserrement selon les priorités budgétaires et l’équilibre recherché entre soutien aux familles et progressivité de l’impôt (Institut des politiques publiques, 2025). Plus récemment, certaines réformes ont eu comme objectif de réduire davantage l’avantage pour les ménages les plus aisés, comme avec l’abaissement du plafond observé au début des années 2010 (INSEE, 2021 ).

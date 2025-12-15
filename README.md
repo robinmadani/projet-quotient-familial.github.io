@@ -10,6 +10,18 @@ Enfin, les recherches sur les effets démographiques, comme celles de Landais (2
 
 Dans l’ensemble, la littérature décrit le quotient familial comme un dispositif ambivalent, combinant une justification théorique solide et des effets distributifs et comportementaux qui interrogent sa cohérence avec les objectifs d’équité et de justice sociale affichés.
 
+*Bibliographie*
+
+Allègre, G. (2012). Faut-il défendre le quotient familial ? Observations et diagnostics économiques. Revue de l’OFCE, (122/3), 187–220.
+
+Landais, C. (2004). Le quotient familial a-t-il stimulé la natalité française ? Économie publique. Études et recherches, 13.
+
+Carbonnier, C. (2016). Prise en compte de la famille dans l’imposition des revenus en France. Revue française d’économie, 31(1), 111–152.
+
+Sterdyniak, H. (1992). Pour défendre le quotient familial. Paris : Fondation nationale des sciences politiques.
+
+Calot, G. (1980). Réflexions sur la prise en compte du nombre des enfants dans la législation familiale et fiscale. Revue économique, 31(6), 1211–1259.
+
 # I. Genèse et présentation du quotient familial
 
 ## A. Naissance d’un impôt « familialisé » dans l’après-guerre
@@ -215,21 +227,9 @@ Les outils numériques, simulateurs en ligne, formulaires préremplis, interface
 
 *« Pour le coup ici c’est assez minime puisque tout se passe en mairie (…) après ça peut aussi se faire par mail ou avec l’espace famille. »*
 
-Ce processus numérique accentue la performativité du quotient familial, en s’appropriant les catégories fiscales, les individus reconfigurent leur manière de se percevoir comme « foyer » , « parent isolé » , « famille nombreuse »  ou « ménage aidé » . Le dispositif devient ainsi un producteur de réalité sociale, autant qu’un outil de redistribution. Étudier le quotient familial revient donc à étudier la manière dont un instrument fiscal, à travers ses données et ses interfaces numériques, façonne en profondeur les représentations sociales de la famille. 
+Ce processus numérique accentue la performativité du quotient familial, en s’appropriant les catégories fiscales, les individus reconfigurent leur manière de se percevoir comme « foyer » , « parent isolé » , « famille nombreuse »  ou « ménage aidé » . Le dispositif devient ainsi un producteur de réalité sociale, autant qu’un outil de redistribution. Étudier le quotient familial revient donc à étudier la manière dont un instrument fiscal, à travers ses données et ses interfaces numériques, façonne en profondeur les représentations sociales de la famille.
 
-*Bibliographie* 
-
-Allègre, G. (2012). Faut-il défendre le quotient familial ? Observations et diagnostics économiques. Revue de l’OFCE, (122/3), 187–220.
-
-Landais, C. (2004). Le quotient familial a-t-il stimulé la natalité française ? Économie publique. Études et recherches, 13.
-
-Carbonnier, C. (2016). Prise en compte de la famille dans l’imposition des revenus en France. Revue française d’économie, 31(1), 111–152.
-
-Sterdyniak, H. (1992). Pour défendre le quotient familial. Paris : Fondation nationale des sciences politiques.
-
-Calot, G. (1980). Réflexions sur la prise en compte du nombre des enfants dans la législation familiale et fiscale. Revue économique, 31(6), 1211–1259.
-
-# Limites, critiques et alternatives au quotient familial
+# IV. Limites, critiques et alternatives au quotient familial
 
 Le quotient familial, instauré en France après la Seconde Guerre mondiale pour encourager la natalité et soutenir les familles, divise le revenu imposable par un nombre de parts fiscales. Bien qu'il vise l'équité horizontale entre familles de même niveau de vie, ses limites et critiques sont multiples. Elles portent principalement sur son caractère régressif, son coût budgétaire élevé et son impact inégalitaire. D'abord, il exclut les familles non imposables qui représentent environ la moitié des foyers fiscaux, privant ainsi les classes populaires d'un soutien direct. Son avantage fiscal, croissant avec le revenu, accentue les inégalités : pour un enfant, la réduction d'impôt moyenne est de 490 euros annuels chez les 10 % les plus pauvres contre 3 800 euros chez les 10 % les plus riches. Le coût global avoisine 10 à 13 milliards d'euros par an, une "dépense fiscale" qui redistribue inversement des modestes vers les aisés, atténuant la progressivité de l'impôt sur le revenu. De plus, il favorise les couples mariés ou pacsés au détriment des unions libres et ignore les réalités contemporaines comme les familles monoparentales ou recomposées où le partage des ressources n'est pas toujours équitable.
 
